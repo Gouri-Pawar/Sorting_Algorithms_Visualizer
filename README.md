@@ -36,7 +36,9 @@ Data Handling: NumPy, Pandas
 
 📷 Screenshots
 
-Add screenshots or GIFs of the visualizer here to showcase the UI and animations.
+![Dashboard](images/Screenshot 2025-09-27 155136.png)
+![Sorting](images/Screenshot 2025-09-27 155136.png)
+![Result](images/Screenshot 2025-09-27 155136.png)
 <br>
 <hr>
 
