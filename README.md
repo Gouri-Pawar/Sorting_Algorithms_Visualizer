@@ -36,7 +36,7 @@ Data Handling: NumPy, Pandas
 
 📷 Screenshots
 
-! [Dashboard](images/Screenshot 2025-09-27 155136.png)
+![Dashboard](images/Screenshot%202025-09-27%20155136.png)
 ! [Sorting](images/Screenshot 2025-09-27 155136.png)
 ! [Result](images/Screenshot 2025-09-27 155136.png)
 <br>
