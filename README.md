@@ -1,6 +1,7 @@
 Smart Sorting Visualizer 🤖📊
 
-An interactive web application built with Streamlit, Python, and Plotly to visualize classic sorting algorithms and leverage Machine Learning (Random Forest) for predicting their performance metrics.
+An interactive web application built with Streamlit, Python, and Plotly to visualize classic sorting algorithms and leverage Machine Learning (Random Forest) for predicting their performance metrics.<br>
+<hr>
 
 🚀 Features
 
@@ -16,6 +17,9 @@ An interactive web application built with Streamlit, Python, and Plotly to visua
 
 🎬 Dynamic Visuals – Interactive charts and animations powered by Plotly.
 
+<br>
+<hr>
+
 🛠️ Tech Stack
 
 Frontend/UI: Streamlit, HTML/CSS (custom styling)
@@ -27,10 +31,14 @@ Visualization: Plotly, Matplotlib
 Machine Learning: Scikit-learn (Random Forest Regressor)
 
 Data Handling: NumPy, Pandas
+<br>
+<hr>
 
 📷 Screenshots
 
 Add screenshots or GIFs of the visualizer here to showcase the UI and animations.
+<br>
+<hr>
 
 🎯 Future Enhancements
 
@@ -39,11 +47,14 @@ Add screenshots or GIFs of the visualizer here to showcase the UI and animations
 🔹 Improve ML model with larger datasets.
 
 🔹 Enable export of results/visualizations as reports.
+<br>
+<hr>
 
 🤝 Contributing
 
-Contributions are welcome! Fork the repository and submit a pull request to suggest improvements or new features.
+Contributions are welcome! Fork the repository and submit a pull request to suggest improvements or new features.<br>
+<hr>
 
 📜 License
 
-This project is licensed under the MIT License.s
+This project is licensed under the MIT Licenses<br>
